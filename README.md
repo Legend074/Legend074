@@ -15,7 +15,7 @@
 ## 📀 Social Networks
 
 - Discord: Lҽɠҽɳԃ#1267
-- 💻 GitHub: [Niko590](https://github.com/Legend074)
+- 💻 GitHub: [Legend](https://github.com/Legend074)
 - 🌍 Founder: [Fantasy Leaks](https://discord.gg/tAKRAsP66Q)
 - 🌍 Ceo: [Bastard | AC](https://discord.gg/gzUKQqeDgP)
 
