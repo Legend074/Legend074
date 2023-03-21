@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
 <div id="header" align="center">
-    <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" width="200" />
+    <img src="https://media.discordapp.net/attachments/1075516002093236224/1087570876041543732/descarga.jpeg" width="200" />
     <h1 align="center">👋    Welcome to my Profile! 🌎</h1>
 </div>
 
