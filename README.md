@@ -14,27 +14,18 @@
 
 ## 📀 Social Networks
 
-- Discord: Cyton#6820
-- 💻 GitHub: [Niko590](https://github.com/Niko590)
-- 🌍 Ceo: [American Life](Discord.gg/americanrp)
-- 🌍 Ceo: [American PVP](Discord.gg/americanpvp)
-- 🌍 Founder: [Fantasy Leaks](https://discord.gg/FDNWcH7DcZ)
-- 🌍 Ceo: [Bastard | AC](https://discord.gg/QJrH2X6Dyb)
+- Discord: Lҽɠҽɳԃ#1267
+- 💻 GitHub: [Niko590](https://github.com/Legend074)
+- 🌍 Founder: [Fantasy Leaks](https://discord.gg/tAKRAsP66Q)
+- 🌍 Ceo: [Bastard | AC](https://discord.gg/gzUKQqeDgP)
 
 <!-- Social icons section -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glock04&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legend074&show_icons=true&theme=radical)
 
 
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
