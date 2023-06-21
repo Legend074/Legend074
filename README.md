@@ -9,13 +9,21 @@
 
 - 🌎 Country: Argentina
 
+## 👋 Previous projects
+- ♾️ Uruguay RP - Developer
+- ♾️ Bastard AC - Founder
+- ♾️ Fantasy Leaks - Founder
+- ♾️ Jx Leaks - Founder
+- ♾️ BA Hosting - Staff Lvl 3
+- ♾️ Argentina Academy - Founder
 
+## I´m Working..
+- LeakSpot ...
+  
 ## 📀 Social Networks
 
-- Discord: Lҽɠҽɳԃ#1267
+- Discord: Lҽɠҽɳԃ#0254
 - 💻 GitHub: [Legend](https://github.com/Legend074)
-- 🌍 Founder: [Fantasy Leaks](https://discord.gg/tAKRAsP66Q)
-- 🌍 Ceo: [Bastard | AC](https://discord.gg/gzUKQqeDgP)
 
 <!-- Social icons section -->
 
