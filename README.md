@@ -10,16 +10,8 @@
 - 🌎 Country: Argentina
 
 ## 👋 Previous projects
-- ♾️ Uruguay RP - Developer
 - ♾️ Bastard AC - Founder
-- ♾️ Fantasy Leaks - Founder
-- ♾️ Jx Leaks - Founder
-- ♾️ BA Hosting - Staff Lvl 3
-- ♾️ Argentina Academy - Founder
 
-## I´m Working..
-- LeakSpot ...
-- CoronadosRP...
   
 ## 📀 Social Networks
 
