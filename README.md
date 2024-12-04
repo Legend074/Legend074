@@ -10,13 +10,14 @@
 - 🌎 Country: Argentina
 
 ## 👋 Previous projects
-- ♾️ Bastard AC - Founder
-
+- ♾️ Bastard AC - Founder 
+- With [Niko590](https://github.com/Niko590)
   
 ## 📀 Social Networks
 
-- Discord: Lҽɠҽɳԃ#0254
+- Discord: perxxx
 - 💻 GitHub: [Legend](https://github.com/Legend074)
+- 🌍 Head: [Reskate Roleplay](https://discord.gg/reskaterp)
 
 <!-- Social icons section -->
 
